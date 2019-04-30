@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+
+  cassandra:
+    image: 'cassandra'
+    container_name: 'cassandra'
+    ports:
+      - '9042:9042'
+    volumes:
+      - './initKS.sh:/initKS.sh'
+    command: 'sh /initKS.sh'
