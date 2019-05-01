@@ -24,5 +24,11 @@ java -jar cassandra-0.0.1-SNAPSHOT.jar
     * [Как устроена apache cassandra](https://habr.com/ru/post/155115)
     * [Introduction to Spring Data Cassandra](https://www.baeldung.com/spring-data-cassandra-tutorial)
     * [Spring Data for Apache Cassandra - Reference Documentation](https://docs.spring.io/spring-data/cassandra/docs/current/reference/html)
+    * [Cassandra Migration Tool](https://www.javacodegeeks.com/2016/03/cassandra-migration-tool.html)
+    * [Cassandra Schema Migration for Spring-Boot Projects](https://itwarilal.github.io/java/spring-boot/2018/10/06/boot-cassandra.html)
 * videos
     * [Spring Boot Cassandra Example](https://www.youtube.com/watch?v=MeK8pFj1bk4)
+    
+## Libraries
+
+* [cassandra-migration-tool-java](https://github.com/smartcat-labs/cassandra-migration-tool-java)
